@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mohith</h1>
+<p align="center">
+  <img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ2N3gzMXFxZnl0NW00NWt1ODBuczdxNmxocWptbjNtMGZ6azNqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif"
+    alt="🤝 Handshake"
+    width="150"
+  />
+</p>
+
+<h1 align="center">Hi 👋, I’m Mohith</h1>
+
 <h3 align="center">I'm a passionate developer and aspiring AI leader based in Los Angeles, CA. With a strong background in Generative AI, Software Engineering, and Data Analytics, I strive to build innovative solutions that push the boundaries of technology. My journey involves working on AI applications in healthcare, machine learning research, and full-stack development.</h3>
 
 - 📫 How to reach me **mohith81999@gmail.com**
