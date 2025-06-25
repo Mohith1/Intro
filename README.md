@@ -1,10 +1,10 @@
 👋 Hey, I'm Mohith! 👨‍💻
 
-About Me
+About Me 🧘🏻‍♂️ -
 
 I'm a passionate developer and aspiring AI leader based in Los Angeles, CA. With a strong background in Generative AI, Software Engineering, and Data Analytics, I strive to build innovative solutions that push the boundaries of technology. My journey involves working on AI applications in healthcare, machine learning research, and full-stack development.
 
-Check out my [website](https://www.linkedin.com/in/mohith-kanthamneni) to learn more about me.
+Check out my [Linkedin](https://www.linkedin.com/in/mohith-kanthamneni) to learn more about me.
 
 ---
 
@@ -37,7 +37,7 @@ Check out my [website](https://www.linkedin.com/in/mohith-kanthamneni) to learn 
 
 
 
-📫 Contact
+📫 Contact -
 
 📧 Email: mohith81999@gmail.com
 
