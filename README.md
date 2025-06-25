@@ -41,7 +41,7 @@ Check out my [Linkedin](https://www.linkedin.com/in/mohith-kanthamneni) to learn
 
 📧 Email: mohith81999@gmail.com
 
-🔗 LinkedIn: Mohith Kanthamneni(https://www.linkedin.com/in/mohith-kanthamneni)
+🔗 LinkedIn: [Mohith Kanthamneni](https://www.linkedin.com/in/mohith-kanthamneni)
 
 🌍 Location: Los Angeles, CA, USA
 
